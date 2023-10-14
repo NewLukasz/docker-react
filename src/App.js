@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        To jest testowanie
+        I was changed on the feature branch
       </header>
     </div>
   );
